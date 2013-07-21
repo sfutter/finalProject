@@ -3,11 +3,16 @@
 
 body {
 	background: grey;	
+	font-family: Georgia, sans-serif;
 }
 
 #container {
 	border: 1px solid black;
 	background: white;
+}
+
+#header {
+	text-align: center;
 }
 
 .colorbox {
@@ -18,6 +23,11 @@ body {
 
 .left_block img {
 	margin-bottom: 10px; 
+}
+
+
+nav {
+	text-align: center;
 }
 
 nav ul li{
