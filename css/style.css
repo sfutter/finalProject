@@ -1,0 +1,25 @@
+/* CSS Document */
+
+
+body {
+	background: grey;	
+}
+
+#container {
+	border: 1px solid black;
+	background: white;
+}
+
+.colorbox {
+	background: orange;	
+	margin-bottom: 10px;
+}
+
+
+.left_block img {
+	margin-bottom: 10px; 
+}
+
+nav ul li{
+	display: inline-block;
+}
